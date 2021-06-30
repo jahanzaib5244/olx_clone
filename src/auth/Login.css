@@ -1,0 +1,43 @@
+.center {
+    position: absolute;
+left: 50%;
+top: 70%;
+transform: translate(-50%, -50%);
+box-shadow: #727370;
+padding: 30px;
+border-radius: 10px;
+border: 0.5px solid black;
+background-color: white;
+
+    }
+   
+    #standard-basic{
+        
+        width: 380px;
+        height: 30px;
+        font-size: 15px;
+    }
+    .center h1 {
+        margin: 20px;
+        margin-left: 120px;
+        width: 60%;
+      color: black;
+        padding: 10px;
+    }
+    .rootdiv{
+        background-color: rgba(0, 0, 0, .5);
+    }
+    .center button{
+        width: 400px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 50px;
+    background-color: #3dab35;
+    color: white;
+    margin-bottom: 50px;
+    }
+    .center a{
+        color: black;
+    }
